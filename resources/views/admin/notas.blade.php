@@ -4,7 +4,7 @@
             
             {{-- Judul Halaman Admin --}}
             <div class="text-center mb-6">
-                <h1 class="text-2xl font-bold text-gray-800">📋 Lista Nota Transasaun</h1>
+                <h1 class="text-2xl font-bold text-gray-800">Relatorio Nota Transasaun</h1>
                 <p class="text-gray-500">nota kompletu</p>
             </div>
 
